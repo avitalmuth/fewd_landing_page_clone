@@ -102,7 +102,7 @@ div {
  * Introduction Section
  */
 .introduction {
-    background-image: url('/users/avitalmuth/documents/thinkful/startup-landing-page-clone/images/first-background-copy.jpg');
+    background-image: url(''../images/first-background-copy.jpg');
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
